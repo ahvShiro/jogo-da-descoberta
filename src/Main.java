@@ -16,7 +16,7 @@ public class Main {
         String palavraEmbaralhada = embaralharPalavraPorVetor(palavraEscolhida);
 
         // Gera a dica da palavra escolhida
-        char[] dicaPalavra = mostrarDica(palavraEmbaralhada);
+        char[] dicaPalavra = mostrarDica(palavraEscolhida);
 
         System.out.printf("Palavra gerada: %s%nDigite \"!d\" para receber uma dica e \"!q\" para sair do programa%n", palavraEmbaralhada);
 
@@ -34,7 +34,7 @@ public class Main {
                 continue;
             }
             if (inputUsuario.equals("!Q")) {
-                System.out.println("Programa finalizado por motivos de skill issue XD - Tentativas: " + contadorTentativas);
+                System.out.println("Programa finalizado - Tentativas: " + contadorTentativas);
                 break;
             }
             contadorTentativas++;
