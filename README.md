@@ -18,6 +18,15 @@ Este é um projeto que foi desenvolvido em sala de aula, na matéria de Algoritm
 javac Main.java
 ```
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/62462b5d-3acb-4156-b841-ff34ceabfdb4)
+
+![image](https://github.com/user-attachments/assets/c8aa5521-47d1-4dd0-ab19-2c738aa21435)
+
+![image](https://github.com/user-attachments/assets/ce680921-0ded-48e6-95e1-a6907fcfe47e)
+
+![image](https://github.com/user-attachments/assets/5c0b3326-06d6-4fd5-a9d5-5feef855a553)
+
 ## Termos chave aprendidos com esse projeto
 
 - Leitura de entradas de console com Scanner
